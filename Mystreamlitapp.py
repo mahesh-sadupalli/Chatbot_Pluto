@@ -44,7 +44,7 @@ st.set_page_config(page_title="Pluto")
 
 
 # Define Metaphor API key
-METAPHOR_API_KEY = "cfb854d0-617b-4e1f-8d54-62e5639995a5"  # Replace with your Metaphor API key
+METAPHOR_API_KEY = "API"  # Replace with your Metaphor API key
 
 # Define chatbot name
 chatbot_name = "Pluto"
